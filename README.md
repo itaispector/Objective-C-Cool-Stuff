@@ -4,5 +4,5 @@
 Get a values array of keys from an array of dictionaries:
 
 `
-NSArray* newArray = [originalArray valueForKey:@"theKey"];
+NSArray* newArray = [originalArray valueForKey:@"aKey"];
 `
